@@ -1,0 +1,7 @@
+echo "# Environment variables" > .gitignore
+echo ".env" >> .gitignore
+echo ".env.local" >> .gitignore
+echo "" >> .gitignore
+echo "# Python cache" >> .gitignore
+echo "__pycache__/" >> .gitignore
+echo "*.pyc" >> .gitignore
